@@ -40,6 +40,7 @@ const LocationInput = ({ value, onChange }) => {
 
     return (
         <div className="relative">
+        
             <input
                 type="text"
                 value={value}
